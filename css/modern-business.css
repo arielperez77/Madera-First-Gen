@@ -23,6 +23,10 @@ body {
     opacity: 0.8;
 }
 
+.navbar{
+    background-color: #c8973e
+    ;
+}
 
 .products .caption {
     height: 130px;
