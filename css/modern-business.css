@@ -85,6 +85,10 @@ header.carousel .fill {
     line-height: 50px;
 }
 
+  .navbar-inverse .navbar-brand {
+    color: rgb(0,0,0);
+}
+
 .price sup {
     top: -20px;
     left: 2px;
