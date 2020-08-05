@@ -15,6 +15,47 @@ body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
+.carouselborder1{
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-bottom: 10px;
+    border-color: rgb(163, 0, 163);
+    border-style: double;
+}
+
+.video{
+    border: 10px;
+    border-color: #c0c0c0;
+    border-style: double;
+}
+
+.carouselborder2{
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-bottom: 10px;
+    border-color: #061ef1;
+    border-style: double;
+}
+
+.video1{
+    border: 10px;
+    border-color: #c0c0c0;
+    border-style: double;
+}
+
+
+.carouselborder3{
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-bottom: 10px;
+    border-color: #0ABAB5;
+    border-style: double;
+}
+
+
 .img-portfolio {
     margin-bottom: 30px;
 }
