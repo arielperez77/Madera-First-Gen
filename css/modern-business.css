@@ -104,19 +104,11 @@ header.carousel .fill {
 
 
 footer {
-    margin: fill;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-align: center;
     background-color: rgb(137, 105, 58);
     background-color: cover;
     padding: 10px 15px !important;
-    width: fill;
-    height: 100px;
-
 }
+
 
 /* Responsive Styles */
 
